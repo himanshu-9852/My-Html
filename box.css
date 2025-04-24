@@ -1,0 +1,20 @@
+.container{
+    background-color: aqua;
+    color: orange;
+    /* padding-top: 30px;
+    padding: bottom 30px; 
+    padding-left: 30px;
+    padding-right: 30px; */
+    padding: 40px;
+    border: 15px double black;
+    border-radius: 30px;
+}
+.container1{
+    background-color: brown;
+    color: blueviolet;
+    padding: 40px;
+    margin-top: 40px;
+    border: 15px dotted blueviolet;
+    border-radius: 20px;
+
+}

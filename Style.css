@@ -14,5 +14,12 @@ body{
     word-spacing: 45px;
     letter-spacing: 25px;
     text-shadow: 9px 8px 7px green;
+    text-align: center;
 
+}
+.para{
+    font-weight: bolder;
+}
+.head3{
+    font-family: verdana;
 }
