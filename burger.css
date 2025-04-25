@@ -1,0 +1,15 @@
+.parent{
+    display: flex;
+    background-color: burlywood;
+    justify-content: space-evenly;
+}
+.bad{
+    font-style: italic;
+    font-size: 40px;
+    font-family: 'Lucida Sans;
+    
+    
+}
+.worst{
+
+}
