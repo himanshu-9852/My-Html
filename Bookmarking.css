@@ -1,0 +1,9 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.Demo{
+    background-color: aqua;
+    color: blueviolet;
+    padding: 15px;
+}

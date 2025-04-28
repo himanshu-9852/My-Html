@@ -2,6 +2,7 @@
     display: flex;
     background-color: burlywood;
     justify-content: space-evenly;
+    align-items: center;
 }
 .bad{
     font-style: italic;
@@ -11,5 +12,11 @@
     
 }
 .worst{
+
+}
+.parent .bad button {
+    background-color: blueviolet;
+    padding: 14px;
+    
 
 }
